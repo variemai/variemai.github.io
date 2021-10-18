@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ioannis Vardas</title>
+    <link>https://variemai.github.io/</link>
+    <description>Recent content on Ioannis Vardas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Oct 2021 21:41:46 +0200</lastBuildDate><atom:link href="https://variemai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research Profile</title>
+      <link>https://variemai.github.io/posts/hpc/</link>
+      <pubDate>Sun, 17 Oct 2021 21:41:46 +0200</pubDate>
+      
+      <guid>https://variemai.github.io/posts/hpc/</guid>
+      <description>Research in High Performance Computing  I am a Pre-Doctoral researcher in the Technical University of Vienna at the Research Group Parallel Computing. My research interests revolve around the High Performance Computing (HPC) area and more specifically in software interfaces for Parallel computing such as Message Passing Interface (MPI). Additionally, my research includes topics on Interconnects, Resilience and Fault-tolerance. My current research thesis concerns the mapping of parallel processes to the system&amp;#39;s topology using the MPI virtual process topologies.</description>
+    </item>
+    
+  </channel>
+</rss>
