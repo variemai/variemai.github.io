@@ -13,8 +13,7 @@
       <link>https://variemai.github.io/posts/hpc/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://variemai.github.io/posts/hpc/</guid>
-      <description>Research in High Performance Computing I am a Pre-Doctoral researcher in the TU Wien at the Research Group Parallel Computing. My research interests revolve around the High Performance Computing (HPC) area. Specifically, performance optimization of HPC applications and the performance of MPI libraries such as Open MPI and MPICH. Past research includes topics on Interconnects, Resilience and Fault-tolerance.
-My current research thesis is concerned with the mapping and colocation of parallel applications to the deep resource hierarchy of HPC systems.</description>
+      <description>Research in High Performance Computing I am a Pre-Doctoral researcher in the TU Wien at the Research Group Parallel Computing. My research interests revolve around the High Performance Computing (HPC) area. Specifically, performance optimization of HPC applications and the performance of MPI libraries such as Open MPI and MPICH. Past research includes topics on Interconnects, Resilience and Fault-tolerance.&#xA;My current research thesis is concerned with the mapping and colocation of parallel applications to the deep resource hierarchy of HPC systems.</description>
     </item>
   </channel>
 </rss>
