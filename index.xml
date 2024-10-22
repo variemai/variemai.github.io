@@ -4,7 +4,7 @@
     <title>Ioannis Vardas</title>
     <link>https://variemai.github.io/</link>
     <description>Recent content on Ioannis Vardas</description>
-    <generator>Hugo 0.125.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Nov 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://variemai.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://variemai.github.io/posts/hpc/</link>
       <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://variemai.github.io/posts/hpc/</guid>
-      <description>Research in High Performance Computing I am a Pre-Doctoral researcher in the TU Wien at the Research Group Parallel Computing. My research interests revolve around the High Performance Computing (HPC) area. Specifically, performance optimization of HPC applications and MPI libraries such as Open MPI and MPICH. My past research includes topics on Interconnects, Resilience and Fault-tolerance.&#xA;I developed a new MPI profiling tool called mpisee that follows a new communicator-centric approach to profile MPI applications.</description>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Research in High Performance Computing&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;I am a Pre-Doctoral researcher in the TU Wien at the Research Group Parallel&#xA;Computing. My research interests revolve around the High Performance Computing&#xA;(HPC) area. Specifically, performance optimization of HPC applications and MPI&#xA;libraries such as &lt;a href=&#34;https://www.open-mpi.org/&#34;&gt;Open MPI&lt;/a&gt; and &lt;a href=&#34;https://www.mpich.org/&#34;&gt;MPICH&lt;/a&gt;. My past research includes topics on&#xA;Interconnects, Resilience and Fault-tolerance.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;I developed a new MPI profiling tool called &lt;a href=&#34;https://github.com/variemai/communicator_profiler&#34;&gt;mpisee&lt;/a&gt; that follows a new&#xA;communicator-centric approach to profile MPI applications. In this way, we can&#xA;explore the use of virtual topology and the impact of MPI communicator mapping&#xA;on application performance. My current research thesis is focused on the mapping&#xA;and colocation of parallel applications to deep resource hierarchies that have&#xA;become more common of HPC systems.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
