@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ioannis Vardas</title>
-    <link>https://variemai.github.io/</link>
+    <link>https://iovardas.github.io/</link>
     <description>Recent content on Ioannis Vardas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://variemai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iovardas.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Profile</title>
-      <link>https://variemai.github.io/posts/hpc/</link>
+      <link>https://iovardas.github.io/posts/hpc/</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://variemai.github.io/posts/hpc/</guid>
+      <guid>https://iovardas.github.io/posts/hpc/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Current Role &amp;amp; Research&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;I am a Solution Architect at Eviden in Vienna. I received my PhD from TU Wien&#xA;(Research Group Parallel Computing). My research interests remain in the High&#xA;Performance Computing (HPC) area. Specifically, performance optimization of HPC&#xA;applications, and profiling and performance analysis of communication&#xA;libraries, MPI (&lt;a href=&#34;https://www.open-mpi.org/&#34;&gt;Open MPI&lt;/a&gt; and &lt;a href=&#34;https://www.mpich.org/&#34;&gt;MPICH&lt;/a&gt;), and NVIDIA Collective&#xA;Communications Library (&lt;a href=&#34;https://github.com/NVIDIA/nccl&#34;&gt;NCCL&lt;/a&gt;). My past research includes topics on&#xA;interconnects, resilience, and fault tolerance.&lt;/p&gt;</description>
     </item>
   </channel>
